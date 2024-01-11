@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IOS101-PreWork
 
 ### Gif Demonstration:
@@ -20,3 +21,6 @@ Integrated e-Commerce: The platform's integration of e-commerce features allows 
 Real Time Updates: Google Calendar's real-time update feature ensures that users are always aware of their schedule changes and appointments, enhancing the reliability of the app.
 
 Reminders: The reminders feature helps users keep track of their tasks and appointments, significantly improving personal organization and time management.
+=======
+# IOS101-PW
+>>>>>>> 1a18eec07e10395bb62ba0305a7480fbf80126a2
