@@ -2,7 +2,7 @@
 # IOS101-PreWork
 
 ### Gif Demonstration:
-![Alt Text](https://github.com/Josee1031/IOS101-PreWork/blob/main/Jan-11-2024%2000-20-38.gif)
+![Alt Text](https://github.com/Josee1031/IOS101-PW/blob/main/Jan-11-2024%2000-20-38.gif)
 
 ### App Brainstorming
 In this section, I explore some of my favorite applications, highlighting the key features that make them stand out. These insights help in understanding what aspects of app design and functionality appeal to users, and can inspire features in future app development projects.
